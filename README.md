@@ -21,11 +21,11 @@ Set in a stylized western world, the player controls a moving train that must be
 - Git for version control
 
 ## 👥 Team Members
-## Ceos
-Jack McDermott 
+# Ceos
+Jack McDermott, 
 Evan Baldrick
 
-## Junior Software Developer 
+# Junior Software Developer 
 Shaun Horsburgh
 
 ## 🚧 Current Progress
